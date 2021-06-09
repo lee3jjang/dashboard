@@ -5,7 +5,7 @@ import numpy as np
 
 ### Configuration
 st.set_page_config(
-    page_title = 'Streamlit Dashboard',
+    page_title = 'Modify Dashboard',
     layout='wide',
     page_icon='💹',
     # theme='Dark',
